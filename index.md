@@ -1,7 +1,7 @@
 # <MC636011>
 
 ## Introduction
-Hello, I am <MC636011 WANG YUMENG>. I am currently learning data science and interested in data analysis, machine learning, and data visualization. This portfolio showcases my data science project, technical skills, and key findings.
+Hello, I am <MC636011>. I am currently learning data science and interested in data analysis, machine learning, and data visualization. This portfolio showcases my data science project, technical skills, and key findings.
 
 ## Technical Skills
 - Python
